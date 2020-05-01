@@ -1,25 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="05d0a85a-15b3-4eb2-8e37-dcffa2df6c98" name="Default Changelist" comment="" />
+    <list default="true" id="05d0a85a-15b3-4eb2-8e37-dcffa2df6c98" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/User.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -30,19 +23,23 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1akmZ2qI6xMXyGW8McxMowaHq1b" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java-ee-big-picture" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -143,11 +140,13 @@
       <workItem from="1588057179949" duration="1467000" />
       <workItem from="1588097474297" duration="8889000" />
       <workItem from="1588305316724" duration="353000" />
+      <workItem from="1588309964688" duration="1544000" />
+      <workItem from="1588312310768" duration="1870000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2398" y="182" key="#Assign_Data_Sources" timestamp="1588142310025">
@@ -162,14 +161,16 @@
       <screen x="1920" y="174" width="1366" height="728" />
     </state>
     <state x="2195" y="196" key="#JBoss_Server/1920.174.1366.728/0.0.1920.1040@1920.174.1366.728" timestamp="1587830280505" />
-    <state x="1559" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588096984698">
-      <screen x="1366" y="0" width="1920" height="1040" />
+    <state x="193" y="30" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588311291817">
+      <screen x="0" y="0" width="1920" height="1160" />
     </state>
+    <state x="193" y="30" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1280.693/0.0.1920.1160@0.0.1920.1160" timestamp="1588311291817" />
     <state x="1559" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1588096984698" />
     <state x="2057" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.174.1366.728/0.0.1920.1040@1920.174.1366.728" timestamp="1587830282872" />
-    <state x="2131" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1588145927303">
-      <screen x="1366" y="0" width="1920" height="1040" />
+    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser" timestamp="1588314468729">
+      <screen x="0" y="0" width="1920" height="1160" />
     </state>
+    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser/-1920.0.1280.693/0.0.1920.1160@0.0.1920.1160" timestamp="1588314468729" />
     <state x="2131" y="204" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1588145927303" />
     <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser/1920.174.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1587890297217" />
     <state x="2056" y="296" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1588141407560">
