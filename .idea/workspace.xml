@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="05d0a85a-15b3-4eb2-8e37-dcffa2df6c98" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="jsf" />
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1akmZ2qI6xMXyGW8McxMowaHq1b" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java-ee-big-picture" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="model" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn package" />
+      <command value="mvn compile" />
+      <command value="mvn deploy" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JBossConfiguration" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="SERVER" value="" />
+        <option name="BINDING_SET_NAME" value="" />
+        <option name="DOMAIN" value="false" />
+        <option name="SERVER_GROUP" value="" />
+        <option name="USERNAME" value="" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="JBoss" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="50859" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05d0a85a-15b3-4eb2-8e37-dcffa2df6c98" name="Default Changelist" comment="" />
+      <created>1587288017461</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587288017461</updated>
+      <workItem from="1587288020804" duration="3797000" />
+      <workItem from="1587296624415" duration="235000" />
+      <workItem from="1587530474970" duration="8735000" />
+      <workItem from="1587880169926" duration="8803000" />
+      <workItem from="1588057179949" duration="1467000" />
+      <workItem from="1588097474297" duration="8889000" />
+      <workItem from="1588305316724" duration="353000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2398" y="182" key="#Assign_Data_Sources" timestamp="1588142310025">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2398" y="182" key="#Assign_Data_Sources/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1588142310025" />
+    <state x="552" y="178" key="#Inspections" timestamp="1587891714930">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Inspections/1920.174.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1587891714930" />
+    <state x="2195" y="196" key="#JBoss_Server" timestamp="1587830280505">
+      <screen x="1920" y="174" width="1366" height="728" />
+    </state>
+    <state x="2195" y="196" key="#JBoss_Server/1920.174.1366.728/0.0.1920.1040@1920.174.1366.728" timestamp="1587830280505" />
+    <state x="1559" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588096984698">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1559" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1588096984698" />
+    <state x="2057" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.174.1366.728/0.0.1920.1040@1920.174.1366.728" timestamp="1587830282872" />
+    <state x="2131" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1588145927303">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2131" y="204" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1588145927303" />
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser/1920.174.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1587890297217" />
+    <state x="2056" y="296" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1588141407560">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2056" y="296" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1588141407560" />
+    <state x="690" y="296" key="#com.intellij.ide.util.PackageChooserDialog/1920.174.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1587889981538" />
+    <state x="546" y="340" width="563" height="186" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath" timestamp="1587889585680">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="546" y="340" width="563" height="186" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath/1920.174.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1587889585680" />
+    <state x="640" y="256" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1587894300098">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="256" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/1920.174.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1587894300098" />
+    <state x="2106" y="275" key="FileChooserDialogImpl" timestamp="1588095905036">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2106" y="275" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1588095905036" />
+    <state x="740" y="275" key="FileChooserDialogImpl/1920.174.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1587823040677" />
+    <state width="914" height="279" key="GridCell.Tab.0.bottom" timestamp="1588141324332">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="279" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1588141324332" />
+    <state width="914" height="279" key="GridCell.Tab.0.center" timestamp="1588141324332">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="279" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1588141324332" />
+    <state width="914" height="279" key="GridCell.Tab.0.left" timestamp="1588141324332">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="279" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1588141324332" />
+    <state width="914" height="279" key="GridCell.Tab.0.right" timestamp="1588141324332">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="279" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1588141324332" />
+    <state x="2336" y="178" key="Maven.ArtifactSearchDialog" timestamp="1588143327588">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2336" y="178" key="Maven.ArtifactSearchDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1588143327588" />
+    <state x="257" y="8" key="SettingsEditor" timestamp="1587889588158">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="257" y="8" key="SettingsEditor/1920.174.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1587889588158" />
+    <state x="2103" y="180" key="SettingsEditor/1920.174.1366.728/0.0.1920.1040@1920.174.1366.728" timestamp="1587830165353" />
+    <state x="776" y="298" key="chooseDestDirectoryDialog" timestamp="1587889922076">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="776" y="298" key="chooseDestDirectoryDialog/1920.174.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1587889922076" />
+    <state x="375" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1588305673203">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="375" y="188" key="com.intellij.ide.util.TipDialog/0.0.1360.728@0.0.1360.728" timestamp="1588305673203" />
+    <state x="378" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1588095888537" />
+    <state x="532" y="0" width="856" height="1040" key="find.popup" timestamp="1587892713773">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="377" y="0" width="606" height="728" key="find.popup/0.0.1360.728@0.0.1360.728" timestamp="1587289954407" />
+    <state x="532" y="0" width="856" height="1040" key="find.popup/1920.174.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1587892713773" />
+    <state x="2428" y="242" width="672" height="677" key="run.anything.popup" timestamp="1588141188463">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2428" y="242" width="672" height="677" key="run.anything.popup/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1588141188463" />
+  </component>
+</project>
